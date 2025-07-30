@@ -1,4 +1,3 @@
-// src/types/index.ts
 export interface Friend {
   id: number;
   name: string;
