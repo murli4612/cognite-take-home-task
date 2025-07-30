@@ -20,7 +20,7 @@ export default function MessageInput({ onSendMessage }: MessageInputProps) {
       <input
         type="text"
         value={message}
-        onChange={e => setMessage(e.target.value)}
+        onChange={(e) => setMessage(e.target.value)}
         placeholder="Type a message..."
       />
       <button type="submit">Send</button>
