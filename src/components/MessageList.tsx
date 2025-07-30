@@ -1,5 +1,4 @@
-import type { Message, Friend } from "../types";
-
+import type { Friend, Message } from "../types";
 
 interface MessageListProps {
   messages: Message[];

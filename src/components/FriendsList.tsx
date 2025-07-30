@@ -1,6 +1,5 @@
 import type { Friend } from "../types";
 
-
 interface FriendsListProps {
   friends: Friend[];
   selectedFriendId: number;

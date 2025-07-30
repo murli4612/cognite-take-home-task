@@ -1,8 +1,7 @@
 
-
-import type { Friend, Message } from '../types';
-import MessageInput from './MessageInput';
 import MessageList from './MessageList';
+import MessageInput from './MessageInput';
+import type { Friend, Message } from '../types';
 
 interface ChatWindowProps {
   friend: Friend;
