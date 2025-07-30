@@ -1,3 +1,39 @@
+# To run the project
+# Messenger App - React & TypeScript
+
+A basic messenger application that allows users to:
+1. Write messages and see them appear in the chat window
+2. Select friends to view different conversations
+
+## Prerequisites
+
+- Node.js v22.17.1
+- npm (comes with Node.js)
+
+## Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/murli4612/cognite-take-home-task.git
+
+```
+
+## Navigate to project directory
+--cd cognite-take-home-task
+## Install dependencies
+--npm install
+## Run the development server
+--npm run dev
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
